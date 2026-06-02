@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CostromSMP.aternos.me.aternos.me",
+    "ip": "CostromSMP.aternos.me.aternos.",
     "port": 14650,
     "version": "",
     "try-creative": false
