@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CostromSMP.ceu.gg",
+    "ip": "CostromSMP.ceu.gg:",
     "port": 22393,
     "version": "",
     "try-creative": false
